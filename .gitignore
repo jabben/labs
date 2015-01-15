@@ -1,0 +1,12 @@
+*.iml
+target
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/scopes
+.idea/misc.xml
+.idea/modules.xml
+.idea/copyright
+
+
+
+
